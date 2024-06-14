@@ -1,0 +1,12 @@
+#
+# Con el metodo de Newton iniciamos a partir de 5 puntos diferentes al igual que con un tamaño de
+# pasos diferente, y un maximo numero de itearcion
+#
+#    P A R A M E T R O S - N E W T O N - R A P H S O N
+#
+# Instancias; Puntos de partida (x, y, z); numero de iteracion, error
+1;[981, 762.2, 425];0.8;100;0.000001
+2;[768.205, 365, 255];0.01;100;0.000001
+3;[632, 552, 250];0.001;100;0.000001
+4;[836.2, 675, 422];1;100;0.000001
+5;[735, 396, 569];0.4;100;0.000001
